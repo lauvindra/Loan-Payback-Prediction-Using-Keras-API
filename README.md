@@ -1,4 +1,5 @@
 # Loan-Payback-Prediction-Using-Keras-API
+<img src="Images/loan.png" width="450" height="250">
 
 # 1.Introduction
 LendingClub is a US peer-to-peer lending company, headquartered in San Francisco, California.[3] It was the first peer-to-peer lender to register its offerings as securities with the Securities and Exchange Commission (SEC), and to offer loan trading on a secondary market. LendingClub is the world's largest peer-to-peer lending platform.
@@ -15,6 +16,7 @@ git clone https://github.com/lauvindra/Loan-Payback-Prediction-Using-Keras-API.g
 * To get a new potential customer that can assess whether or not they are likely to pay back the loan in the future.
 
 # 3. Keras API 
+<img src="Images/keras.png" width="400" height="140">
 Keras is a deep learning API written in Python, running on top of the machine learning platform TensorFlow. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result as fast as possible is key to doing good research.
 
 # 4. Feature Engineering
