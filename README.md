@@ -29,3 +29,5 @@ Features are usually in the form of structured columns. Algorithms require featu
 * https://www.kaggle.com/wordsforthewise/lending-club
 * https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114
 * https://keras.io/
+
+Check my Notebook for implementation of the loan prediction model using LendingClub dataset from Kaggle.
